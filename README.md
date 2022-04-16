@@ -1,2 +1,3 @@
 # tri
 Tri
+Print("hi")
